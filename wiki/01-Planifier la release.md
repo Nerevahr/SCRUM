@@ -14,7 +14,7 @@ Après avoir exprimmé la vision du produit, une RoadMap peut prévoir plusieurs
 
 La release planning n'est pas un évènement officiel en scrum mais permet d'étaler les histoires utilisateurs sur des sprints et de fixer un objectif au sprint. Le sprint possède une boite de temps de 4 semaines, c'est à dire qu'il doit durer au maximum 4 semaines.
 
-![image](./resources/01/01-Release.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/SCRUM/master/wiki/resources/01/01-Release.jpg)
 
 ___
 
@@ -33,13 +33,13 @@ Le Burndow Chart montre l'effort accompli pendant un sprint ou pendant une relea
 
 Le Release Burndow Chart montre l'effort accompli pour produire la release
 
-![image](./resources/01/02-Burndown.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/SCRUM/master/wiki/resources/01/02-Burndown.jpg)
 
 ___
 
 👨🏻‍💻 Manipulation
 
-Récupérer le fichier [BurndownRelease](./resources/01/BurndownRelease.xls) pour le faire correspondre au nombre story points  et de sprint de votre projet. Le déposer à la racine de votre projet localement.
+Récupérer le fichier [BurndownRelease](https://raw.githubusercontent.com/POEC-20-05/SCRUM/master/wiki/resources/01/BurndownRelease.xls) pour le faire correspondre au nombre story points  et de sprint de votre projet. Le déposer à la racine de votre projet localement.
 
 ___
 
