@@ -19,14 +19,14 @@ ___
 
 ## 📑 "Sprint planning meeting"
 
-Cet évènement possède uen timeboxe de **8 heures**. La **scrum team** est présente à cet évènement, c'est le seul moment où elle peut soliciter une **aide extérieure** pour l'aider. 
+Cet évènement possède uen timeboxe de **8 heures**. La **scrum team** est présente à cet évènement, c'est le seul moment où elle peut solliciter une **aide extérieure** pour l'aider. 
 
-L'objectif de ce planning et de produire un backlog de sprint en répondant à la question: 
+L'objectif de ce planning est de produire un backlog de sprint en répondant à la question: 
 
 * **Qu'est ce qui peut être fait pendant ce sprint?**
 * **Comment ce travail choisi sera fait?**
 
-Il est possible que par rapport à la release planning, le **scope** et l'**objectif** du sprint soit requalifié. Il est possible de travailler directement avec des histoires utilisateurs mais la team est **libre de sa méthode**. Il est fréquent de voir les histoires utilisateurs découpées en **taches, estimées et priorisés** puis positionnée sur un **Kanban** à définir. Chacun poura selectionner une tache au démarage du sprint.
+Il est possible que par rapport à la release planning, le **scope** et l'**objectif** du sprint soient requalifiés. Il est possible de travailler directement avec des histoires utilisateurs mais la team est **libre de sa méthode**. Il est fréquent de voir les histoires utilisateurs découpées en **taches, estimées et priorisés** puis positionnée sur un **Kanban** à définir. Chacun poura selectionner une tache au démarage du sprint.
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/SCRUM/master/wiki/resources/02/02-Planning.jpg)
 
@@ -40,7 +40,7 @@ ___
 
 ## 📑 "Sprint Backlog"
 
-Le resultat du **Sprint Planning** est l'établissement d'un **Sprint Backlog**. Ce Backlog concerne l'équipe de développement, **le print peut démarrer quand le backlog possède une journée de travail**. Chaque membre peut selectionner une tache pour son accomplissement et peut ajouter des taches en découpant une histoire utilisateur ou compléter un découpage.
+Le résultat du **Sprint Planning** est l'établissement d'un **Sprint Backlog**. Ce Backlog concerne l'équipe de développement, **le print peut démarrer quand le backlog possède une journée de travail**. Chaque membre peut sélectionner une tache pour son accomplissement et peut ajouter des tâches en découpant une histoire utilisateur ou compléter un découpage.
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/SCRUM/master/wiki/resources/02/03-Backlog.jpg)
 
@@ -60,7 +60,7 @@ ___
 
 ## 📑 "Burn down" de "sprint"
 
-Comme observé pour l'échelle de la release ainsi que pendant la thématique AGI-MET, il est important de pouvoir visualiser l'avancement de l'effort à accomplir dans le temps. Maintenir à la main un BurnDown de sprint au vu du nombre de tache est une perte de temps, il faut utiliser un outil proposant cette automatisation.
+Comme observé pour l'échelle de la release ainsi que pendant la thématique AGI-MET, il est important de pouvoir visualiser l'avancement de l'effort à accomplir dans le temps. Maintenir à la main un BurnDown de sprint au vu du nombre de taches est une perte de temps, il faut utiliser un outil proposant cette automatisation.
 
 🔗 [@see AGI-MET](https://github.com/POEC-20-05/AGI-MET/wiki)
 
@@ -70,15 +70,15 @@ ___
 
 ## 📑 "Daily Scrum"
 
-Chaque jour, une réunions rythme le sprint. L'objectif est de synchroniser les activitées et de crée un plan pour les prochaines 24 heures.
+Chaque jour, une réunion rythme le sprint. L'objectif est de synchroniser les activitées et de crée un plan pour les prochaines 24 heures.
 
 * Il possède une timebox de **15 minutes**
-* Il se déroule **toujours au même endroit** et **à la même heure** pour diminuer la compléxité.
+* Il se déroule **toujours au même endroit** et **à la même heure** pour diminuer la complexité.
 * Il se déroule dans un **lieu clos**
 * Seul l'**équipe de développement** est autorisé à y assister
 * Le Scrum Master s'assure que les règles soient respectées
 
-Cette réunion ne doit pas forcement se dérouler debout même si cela permet à la réunion de ne pas s'éterniser. Chaque membre prend la parole d'une façon auto-organisée et le format est libre. Cependant il est ocurant de voir 3 questions auquel chaque membre répond:
+Cette réunion ne doit pas forcément se dérouler debout même si cela permet à la réunion de ne pas s'éterniser. Chaque membre prend la parole d'une façon auto-organisée et le format est libre. Cependant il est courant de voir 3 questions auxquelles chaque membre répond:
 
 * Qu'est-ce que j'ai fait hier qui a aidé l'équipe de développement à atteindre l'objectif de sprint?
 * Que vais-je faire aujourd'hui pour aider l'équipe de développement à atteindre l'objectif de sprint?

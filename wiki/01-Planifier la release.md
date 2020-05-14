@@ -8,11 +8,11 @@ ___
 
 ## 📑 Plan de version
 
-Après avoir exprimmé la vision du produit, une RoadMap peut prévoir plusieurs releases (version majeur) du produit pour inclure les fonctionnalitées de la vision.
+Après avoir exprimé la vision du produit, une RoadMap peut prévoir plusieurs releases (version majeur) du produit pour inclure les fonctionnalités de la vision.
 
 ### 🏷️ **Release Planning**
 
-La release planning n'est pas un évènement officiel en scrum mais permet d'étaler les histoires utilisateurs sur des sprints et de fixer un objectif au sprint. Le sprint possède une boite de temps de 4 semaines, c'est à dire qu'il doit durer au maximum 4 semaines.
+La release planning n'est pas un évènement officiel en scrum mais permet d'étaler les histoires utilisateurs sur des sprints et de fixer un objectif au sprint. Le sprint possède une boîte de temps de 4 semaines, c'est à dire qu'il doit durer au maximum 4 semaines.
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/SCRUM/master/wiki/resources/01/01-Release.jpg)
 
@@ -45,11 +45,11 @@ ___
 
 ## 📑 L'utilisation du "Product Backlog" et vélocité
 
-Le product backlog contient la référence des histoires utilisateurs et leur estimation, chaque sprint va traiter les histoires utilisateurs qui lui sont ratachés pendant la release planning.
+Le product backlog contient la référence des histoires utilisateurs et leur estimation, chaque sprint va traiter les histoires utilisateurs qui lui sont ratachées pendant la release planning.
 
 ### 🏷️ **Velocity**
 
-A la fin d'un sprint, le nombre d'effort accompli est retenu, à la fin de plusieurs sprints, une moyenne des efforts est calculé: c'est la vélocité.
+A la fin d'un sprint, le nombre d'effort accompli est retenu, à la fin de plusieurs sprints, une moyenne des efforts est calculée: c'est la vélocité.
 
 **Sprint 1**: 20 **+**  **Sprint 2**: 30 = **Vélocité**: 25
 
